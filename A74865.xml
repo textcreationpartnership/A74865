@@ -1,0 +1,875 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alazono-Mastix: or The character of a Cockney: in a satyricall poem. : Dedicated (as a New-years-gift) to the Apprentices of London. By Junius Anonymus, a London Apprentice.</title>
+            <author>Junius Anonymus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74865</idno>
+            <idno type="STC">Wing A838</idno>
+            <idno type="STC">Thomason E651_13</idno>
+            <idno type="STC">ESTC R205853</idno>
+            <idno type="EEBO-CITATION">99865102</idno>
+            <idno type="PROQUEST">99865102</idno>
+            <idno type="VID">117339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74865)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117339)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E651[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Alazono-Mastix: or The character of a Cockney: in a satyricall poem. : Dedicated (as a New-years-gift) to the Apprentices of London. By Junius Anonymus, a London Apprentice.</title>
+                  <author>Junius Anonymus.</author>
+               </titleStmt>
+               <extent>[3], 18 [i.e. 17] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 17 is misnumbered 18.</note>
+                  <note>In verse.</note>
+                  <note>Signed on p. [3]: I. A.</note>
+                  <note>Annotation on Thomason copy: "Jan: 1st 1651"; the "2" in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apprentices --  England --  Humor --  Early works to 1800.</term>
+               <term>London (England) --  Social life and customs --  17th century --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117339:1" rendition="simple:additions"/>
+            <p>
+               <hi>Alazono-Maſtix:</hi> OR THE Character of a <hi>Cockney:</hi> IN A <hi>Satyricall Poem.</hi> Dedicated (as a New-years-gift) to the Apprentices of <hi>LONDON.</hi>
+            </p>
+            <p>By <hi>Junius Anonymus,</hi> A <hi>London</hi> Apprentice.</p>
+            <q>
+               <hi>Capiat, qui capere poteſt.</hi>
+            </q>
+            <q>
+               <l>The Cockneyes eat their Breakfaſts in their beds,</l>
+               <l>And ſpend the day in dreſsing of their heads:</l>
+               <l>Though God in mercy may doe much to ſave them,</l>
+               <l>Yet what a caſe are they in that ſhall have them?</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. I.</hi> 1652.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117339:2"/>
+            <pb facs="tcp:117339:2"/>
+            <head>To the Heroicall and Magnani<g ref="char:EOLhyphen"/>mous, the Apprentices of the City of <hi>LONDON.</hi>
+            </head>
+            <head type="sub">More eſpecially, to ſuch of them, as are lovers of Learning, <hi>Junius Anonymus,</hi> their unworthy Brother, dedicateth, and conſecrateth the firſt fruits of his publike Labors.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>TO whom may I better preſume, to offer this ſmall Pamphlet, then to your ſelves? for whoſe ſake it obtained its originall being, and if it be any wayes ſerviceable to you, in defending you as a Bulwarke againſt all the inticing allurements of that generation of Vipers (for as the Viper is the death of its parents, ſo do theſe Vipers undoe more in this City by their exorbitancies, then all other caſualties whatſoever) I ſhall have attained the utmoſt limits of my ambition; And to thoſe, that by no admo<g ref="char:EOLhyphen"/>nitions, will bee premoniſhed, I ſhall onely ſay, that,</p>
+            <q>
+               <l>
+                  <hi>Qui ante non cavet, poſt dolebit,</hi>
+               </l>
+               <l>He that bewareth not in time,</l>
+               <l>He ſhall too late repent his crime.</l>
+               <pb facs="tcp:117339:3"/>
+               <l>For my owne part, I have verified this Diſtich,</l>
+               <l>
+                  <hi>Neſcio quid ſit amor, nec amo, nec amor, nec amavi,</hi>
+               </l>
+               <l>
+                  <hi>Sed ſcio ſi quis amat, uritur igne gravi.</hi>
+               </l>
+            </q>
+            <p>Peradventure it will ſeem ſtrange, that one of our Profeſsion, ſhould dare to adventure upon the publike Stage in this ſcribling Age; yet what I have written, I have written; And if any ſhall expect Apologies, they are like to bee fruſtrate of their expectation: I am confident I ſhall offend none, but ſuch as are con<g ref="char:EOLhyphen"/>ſcious of their owne guilt: And it is below my Ge<g ref="char:EOLhyphen"/>nius to crave pardon of them. I dare not enlarge, leſt I ſhould make the Porch ſo great, that the Houſe runne out at the doores: I ſhall onely adde, that if you pleaſe to extend the benevolent aſpect of your favour, to this poore Pamphlet, it ſhall ingage me to requite you with ſomething that ſhall be more worthy of your acceptation. In the interim I remaine,</p>
+            <closer>
+               <signed>Your moſt affectionate Servitor, <hi>I. A.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:117339:3"/>
+            <head>The Character of a Cockney.</head>
+            <div type="prologue">
+               <head>The Prologue.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">T</seg>He triple Trine of old <hi>Parnaſſus</hi> Hill,</l>
+                  <l>Should I invoke to direct my Quill;</l>
+                  <l>Or if that great <hi>Apollo's</hi> ſacred Quire,</l>
+                  <l>I ſhould intreat my Muſe for to inſpire:</l>
+                  <l>It would tranſcendently my Theame diſgrace,</l>
+                  <l>For to implore the aid of things ſo baſe.</l>
+               </lg>
+               <lg>
+                  <l>The liquor of the <hi>Heliconian</hi> grape,</l>
+                  <l>Did never yet my <hi>Pericranium</hi> rape;</l>
+                  <l>Nor <hi>Nectar,</hi> or <hi>Ambroſia</hi> will I quaffe,</l>
+                  <l>Such fictious fancies, I eſteem but draffe;</l>
+                  <l>For why? they are no better then a dream,</l>
+                  <l>Compar'd to this divine Celeſtial theame.</l>
+               </lg>
+               <lg>
+                  <l>For though the Muſes, as the Poets feigne,</l>
+                  <l>Could really intoxicate the braine,</l>
+                  <l>With Extaſies and Raptures, yet thinke I</l>
+                  <l>None will be ſo audacious to deny</l>
+                  <l>Unto our <hi>Cockny's,</hi> the preheminence</l>
+                  <l>Above them, for unhappy influence.</l>
+               </lg>
+               <lg>
+                  <l>Which have produced more diſmall effects,</l>
+                  <l>Then ever the unfortunate Aſpects,</l>
+                  <l>Of the Erratick and Malevolent</l>
+                  <l>Planets, that wander in the Firmament:</l>
+                  <l>The miſchiefes, which to <hi>Mars</hi> or <hi>Saturn's</hi> ſquare</l>
+                  <l>Are ſubſequent, thereto may not compare.</l>
+               </lg>
+               <lg>
+                  <l>Their power extends, not onely to the braine,</l>
+                  <l>Infuſing it with notions, idly vain,</l>
+                  <pb n="2" facs="tcp:117339:4"/>
+                  <l>But wounds the heart with horrid pangs of paine,</l>
+                  <l>Which never perfectly are cur'd againe,</l>
+                  <l>Yea by their art, with a diſſembling ſmile,</l>
+                  <l>They many of their ſenſes doe beguile.</l>
+               </lg>
+               <lg>
+                  <l>And for the ſake of ſuch unhappy men,</l>
+                  <l>I have adventured to take my pen</l>
+                  <l>In hand, for to delineate their folly,</l>
+                  <l>If poſſible, to cure their melancholy,</l>
+                  <l>That when their Idols pourtraiture they ſee,</l>
+                  <l>They of their madneſſe may aſhamed be.</l>
+               </lg>
+            </div>
+            <div type="body_of_poem">
+               <head>The Character.</head>
+               <lg>
+                  <l>THeſe <hi>Cockney's</hi> then, of which my Muſe doth ſing,</l>
+                  <l>They are the eldeſt daughters of the King</l>
+                  <l>Of Pride, old <hi>Lucifer,</hi> and may compare</l>
+                  <l>With all his off-ſpring, for their filiall care</l>
+                  <l>To tread his ſteps: for Prides Epitome,</l>
+                  <l>In them compris'd exactly, you may ſee.</l>
+               </lg>
+               <lg>
+                  <l>They doe conceit, that the whole world, was</l>
+                  <l>Created for their luſt, and will not paſſe</l>
+                  <l>For coſt, or paines, to ſatisfie their will,</l>
+                  <l>And their extravagant deſires fulfill;</l>
+                  <l>Nor Eaſt, nor Weſtern-Indies able are</l>
+                  <l>To ſuffice their ambitious mindes by far.</l>
+               </lg>
+               <lg>
+                  <l>They hang at once, more wealth upon their backs,</l>
+                  <l>Then is contained in forty Pedlers packs,</l>
+                  <l>In Silks, and Sattins, Pearls, and Diamond rings,</l>
+                  <l>And many other ſuperfluous things:</l>
+                  <l>To which the Seller liberally affords,</l>
+                  <l>Bumbaſtick names of long ſix-footed words.</l>
+               </lg>
+               <pb n="3" facs="tcp:117339:4"/>
+               <lg>
+                  <l>For if their Names to underſtand were plaine,</l>
+                  <l>They with the greateſt ſcorne would them diſdaine:</l>
+                  <l>Like as the Ruſtick ſlights an Almanack,</l>
+                  <l>If an uſeleſſe Anatomy it lack:</l>
+                  <l>For all ſtrange things which are not underſtood,</l>
+                  <l>Admired are, and judged very good.</l>
+               </lg>
+               <lg>
+                  <l>If they be Snout-fair, then they doe deſpiſe</l>
+                  <l>All others, and doe ſeeme in their owne eyes</l>
+                  <l>Cóeleſtiall Angels; and they thinke that all</l>
+                  <l>Too little is for ſuch Angelicall</l>
+                  <l>Creatures; who muſt by any meanes not be</l>
+                  <l>Adorn'd, with things of low, and baſe degree.</l>
+               </lg>
+               <lg>
+                  <l>But if they be as ugly as old <hi>Nick,</hi>
+                  </l>
+                  <l>They doe conceit, they have more need to trick,</l>
+                  <l>And paint themſelves; leaſt their deformity</l>
+                  <l>Should be conſpicuous to every eye;</l>
+                  <l>Which to effect, they no ſmall paines doe take,</l>
+                  <l>Thinking fine Feathers gallant Birds doe make.</l>
+               </lg>
+               <lg>
+                  <l>If that crook'd ſhoulder'd, hopper-ar-they are,</l>
+                  <l>Bunch-back't, or any other things that mar</l>
+                  <l>Their ſale; they are obſcur'd from humane ſight,</l>
+                  <l>And they forſooth are made to goe upright:</l>
+                  <l>And this is wrought by vertue of the Art</l>
+                  <l>Of <hi>Monſieur Prick-louſe,</hi> who doth act his part.</l>
+               </lg>
+               <lg>
+                  <l>Yea, they have learn'd ſo much Philoſophy,</l>
+                  <l>That contraries each other beſt deſcry;</l>
+                  <l>Therefore about their necks they ever weare</l>
+                  <l>Black Halters, for to make them white appeare:</l>
+                  <l>Though naturally they'r of themſelves as dun,</l>
+                  <l>As if they had been parcht with <hi>India</hi>'s Sun.</l>
+               </lg>
+               <lg>
+                  <l>Nor are they in the mode, except their Tail</l>
+                  <l>At leaſt a yard upon the ground doth traile:</l>
+                  <l>Bare Necks and Breaſts, to th' middle of their back,</l>
+                  <pb n="4" facs="tcp:117339:5"/>
+                  <l>Which is in Engliſh, Sirs, what doe you lack?</l>
+                  <l>Then to compleat this bravery, is put</l>
+                  <l>In th' midſt of all, a ſimple dirty Slut.</l>
+               </lg>
+               <lg>
+                  <l>But Pride in them is not predominant</l>
+                  <l>Alone, but likewiſe Idleneſſe doth hant</l>
+                  <l>Them ſo inſeparably cloſe, that it</l>
+                  <l>To them is as a ſecond nature knit:</l>
+                  <l>For that which once within the bone is bred,</l>
+                  <l>Will never from the fleſh be ſevered.</l>
+               </lg>
+               <lg>
+                  <l>Idleneſſe unto them doth come by kinde,</l>
+                  <l>And thereto they doe wholly give their minde;</l>
+                  <l>They ſuck't it from their Mothers, and will give</l>
+                  <l>Themſelves to it, as long as they doe live:</l>
+                  <l>And ſlothfulneſſe, and want of exerciſe,</l>
+                  <l>They are the greateſt nouriſhers of vice.</l>
+               </lg>
+               <lg>
+                  <l>They never are, neither undreſt, nor dreſt</l>
+                  <l>Without the help of one or two, at leaſt;</l>
+                  <l>And if their Lady-ſhips by ten doe riſe,</l>
+                  <l>They thinke that they have done a mighty prize:</l>
+                  <l>And then the reſt oth' day, till noon, they paſſe</l>
+                  <l>Away, in gazing in a Looking-glaſſe.</l>
+               </lg>
+               <lg>
+                  <l>The after-noon moſt commonly they ſpend</l>
+                  <l>In Goſſiping, and tatling without end;</l>
+                  <l>Or elſe are Coacht, to th' Old, or New Exchange,</l>
+                  <l>To ſee if there they can ſpie any ſtrange</l>
+                  <l>New Faſhions, which are daily there invented,</l>
+                  <l>To pleaſe ſuch fooles as never are contented.</l>
+               </lg>
+               <lg>
+                  <l>There have they Patches, for to repreſent,</l>
+                  <l>Their faces like the ſtarry Firmament:</l>
+                  <l>Of Stars, horn'd <hi>Cinthia,</hi> and <hi>Pleiades,</hi> are</l>
+                  <l>The moſt affected; Sextile, Trine, and ſquare</l>
+                  <l>Of Aſpects, perfectly are imitated,</l>
+                  <l>And all are unto <hi>Venus</hi> conſecrated.</l>
+               </lg>
+               <pb n="5" facs="tcp:117339:5"/>
+               <lg>
+                  <l>Or rather for to counterfeit the skars</l>
+                  <l>Of Souldiers, which are gotten in the Wars;</l>
+                  <l>And there they have, what ever elſe beſide</l>
+                  <l>Sub-ſervient is unto the ſinne of Pride:</l>
+                  <l>There may be had more faſhions, if you wil,</l>
+                  <l>Then would ten hundred thouſand Horſes kill.</l>
+               </lg>
+               <lg>
+                  <l>And who unto the contrary can tell,</l>
+                  <l>But that ſometimes as well as buy, they ſell?</l>
+                  <l>Or one good turne doe for another change,</l>
+                  <l>(Which thing among them is not very ſtrange)</l>
+                  <l>For they who doe for other things pay deare,</l>
+                  <l>Had need ſell ſomewhat, part o'th' charge to beare.</l>
+               </lg>
+               <lg>
+                  <l>And all the work that e're they goe about,</l>
+                  <l>Is for to make fine Fool-toyes on a Clout;</l>
+                  <l>They alſo for to Sing, and Dance, doe learne,</l>
+                  <l>And when Trades faile, their livings for to earne.</l>
+                  <l>It's work enough, if that they can but tell,</l>
+                  <l>How to ſet out an ill-bred Jade to ſell.</l>
+               </lg>
+               <lg>
+                  <l>And as they ſtudy for to live at eaſe,</l>
+                  <l>So they delight their palat for to pleaſe,</l>
+                  <l>With dainties and delicious delicates,</l>
+                  <l>Which muſt be purchas'd at any rates,</l>
+                  <l>For skill in taſts ſo exquiſite they are,</l>
+                  <l>They doe ſurpaſſe the Art of <hi>Galen</hi> farre.</l>
+               </lg>
+               <lg>
+                  <l>Religion uſually they ſend before,</l>
+                  <l>And ſay, they'l over-take it at threeſcore;</l>
+                  <l>But yet with it they ſeldome promiſe keep,</l>
+                  <l>For e're that time they in the duſt doe ſleep,</l>
+                  <l>Or elſe through cuſtome are infatuated</l>
+                  <l>With ſinne, and unto it habituated.</l>
+               </lg>
+               <lg>
+                  <l>But yet the eyes of the world for to bleare,</l>
+                  <l>They moſt demurely holy will appeare;</l>
+                  <l>And unto Church they will goe every day,</l>
+                  <pb n="6" facs="tcp:117339:6"/>
+                  <l>Yet not regarding what the Preachers ſay:</l>
+                  <l>To ſee, and to be ſeene, is their chiefe end,</l>
+                  <l>And not to learne, whereby their lives to mend.</l>
+               </lg>
+               <lg>
+                  <l>Likewiſe ſometimes their way they doe miſtake,</l>
+                  <l>And for the Church, perhaps a Taverne take;</l>
+                  <l>Meane time the Boy that doth on them attend,</l>
+                  <l>Muſt marke exactly how the time doth ſpend,</l>
+                  <l>Leſt if they ſhould forget themſelves, and ſtay</l>
+                  <l>Too long, their Roguery they might betray.</l>
+               </lg>
+               <lg>
+                  <l>For cankred malice, they doe farre excell</l>
+                  <l>All creatures, that in th' Univerſe doe dwell;</l>
+                  <l>For when with envie once they are conceiv'd,</l>
+                  <l>They are of all their ſences quite bereav'd:</l>
+                  <l>And are poſſeſt with ſuch precipitate rage,</l>
+                  <l>That nothing but revenge can it aſſwage.</l>
+               </lg>
+               <lg>
+                  <l>Did you obſerve them, after what a faſhion,</l>
+                  <l>And height of pride, they Rant it in their paſſion;</l>
+                  <l>You never after would feare any evil,</l>
+                  <l>No, though that you perchance ſhould meet the Devil;</l>
+                  <l>For why? there's nothing can more horrid be</l>
+                  <l>Then them, in their mad fury for to ſee.</l>
+               </lg>
+               <lg>
+                  <l>To ſee, how here, and there they fling and frisk,</l>
+                  <l>With eyes more poyſonous then a Baſilisk;</l>
+                  <l>And faces, frownes, and geſtures, that would fray</l>
+                  <l>The ſtouteſt Lion; ſo that one would ſay</l>
+                  <l>That ſees them, If themſelves they did but ſee</l>
+                  <l>I'th Glaſſe, to ſcold they would aſhamed be:</l>
+               </lg>
+               <lg>
+                  <l>But yet, to none they greater malice beare,</l>
+                  <l>Then unto thoſe, that better Gownes doe weare,</l>
+                  <l>Then their ability wil wel procure,</l>
+                  <l>Whom they by any meanes cannot endure:</l>
+                  <l>For they diſdaine that they ſhould be out-vy'd,</l>
+                  <l>By any Lady in the Land for pride.</l>
+               </lg>
+               <pb n="7" facs="tcp:117339:6"/>
+               <lg>
+                  <l>Nor is their hatred ſuch a fixed thing,</l>
+                  <l>But that their friendſhip is as wavering;</l>
+                  <l>For by the leaſt diſpleaſure it is loſt,</l>
+                  <l>If of their will by any they are cro'ſt:</l>
+                  <l>Then all their former kindneſſe is forgot,</l>
+                  <l>And in Oblivions Grave doth lye and rot.</l>
+               </lg>
+               <lg>
+                  <l>It may be well compared to the blaze,</l>
+                  <l>Which from a fire of Straw it ſelfe doth raiſe,</l>
+                  <l>For furiouſly it to its height doth riſe,</l>
+                  <l>And ſuddenly it is extinct and dyes;</l>
+                  <l>For of this thing you may your ſelfe aſſure,</l>
+                  <l>That no extremes doe ever long endure.</l>
+               </lg>
+               <lg>
+                  <l>The fickle, wavering, and unconſtant winds</l>
+                  <l>Are ſtedfaſt, if compared to their mindes,</l>
+                  <l>For they are ſo moſt vainly variable,</l>
+                  <l>So fooliſhly unſteady, and unſtable,</l>
+                  <l>That they cannot attaine by all their skil,</l>
+                  <l>An hour before-hand, for to know their wil.</l>
+               </lg>
+               <lg>
+                  <l>They now doe one thing wil, and by and by</l>
+                  <l>Their mindes are changed to the contrary;</l>
+                  <l>Anon, they will doe neither this, nor that,</l>
+                  <l>But ſome way elſe, if they could tell but what:</l>
+                  <l>What they would have themſelves, they cannot tell,</l>
+                  <l>Nor ever are content when they are well.</l>
+               </lg>
+               <lg>
+                  <l>They'l laugh, and cry, and frown, and ſmile together,</l>
+                  <l>And make more change of faces, then the weather;</l>
+                  <l>An hundred times they wil their humours change,</l>
+                  <l>Whilſt the Earth once doth round her Axis range:</l>
+                  <l>Their fury to more Shapes transformed is,</l>
+                  <l>Then <hi>Jove</hi> in <hi>Ovids Metamorphoſis.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And if to their owne mindes they ſtrangers be,</l>
+                  <l>Then a grand Foole, and Idiot is he,</l>
+                  <l>That thinkes that he can ever pleaſe their humour</l>
+                  <pb n="8" facs="tcp:117339:7"/>
+                  <l>So long as they are troubled with the tumour</l>
+                  <l>Of ſwelling Pride, and ſelfe-conceitedneſſe:</l>
+                  <l>The Tythe whereof my Muſe cannot expreſſe.</l>
+               </lg>
+               <lg>
+                  <l>They all have a fantaſticall conceit</l>
+                  <l>Of their owne Beauty, which they thinke moſt great,</l>
+                  <l>Though in their judgements they doe goe alone,</l>
+                  <l>For of the ſame opinion there are none:</l>
+                  <l>They all doe judge themſelves exceeding faire,</l>
+                  <l>To finde another of that minde were rare.</l>
+               </lg>
+               <lg>
+                  <l>They, for diſſimulation, doe excel</l>
+                  <l>All people, that in this vaſt world doe dwel;</l>
+                  <l>And can ſo cunnlngly lye, and diſſemble,</l>
+                  <l>That one would think they Angels did reſemble,</l>
+                  <l>At the firſt view they ſeem preciſely pure,</l>
+                  <l>Religious, holy, modeſt, and demure;</l>
+               </lg>
+               <lg>
+                  <l>Falſe hearts and tongues in them inherent are,</l>
+                  <l>In words profeſſing what from th' heart is far;</l>
+                  <l>For to diſſemble, flatter, feigne, and lye,</l>
+                  <l>It is as eaſie as to drinke, when dry:</l>
+                  <l>But though they have this Art exactly learn'd,</l>
+                  <l>But the judicious it is ſoon diſcern'd.</l>
+               </lg>
+               <lg>
+                  <l>They are of all right Reaſon wholly void,</l>
+                  <l>And with good manners ſcorne to be annoy'd;</l>
+                  <l>All that is truly good, as Vertue, Grace,</l>
+                  <l>They doe eſteeme as things too low, and baſe</l>
+                  <l>For their high birth, their breeding, and their bloud,</l>
+                  <l>It would diſhonour be for to be good.</l>
+               </lg>
+               <lg>
+                  <l>No Mediocrity they know, when they</l>
+                  <l>Set on a thing it is no ſaying nay;</l>
+                  <l>To whatſoe're their fancie is inclin'd,</l>
+                  <l>It's to no purpoſe to gain-ſay their mind;</l>
+                  <l>Over their paſſion, wil, and fond opinion,</l>
+                  <l>Nor right, nor reaſon, e're ſhall have dominion.</l>
+               </lg>
+               <pb n="9" facs="tcp:117339:7"/>
+               <lg>
+                  <l>Theſe rare creatures, thus richly qualified,</l>
+                  <l>As unto you, I briefly have deſcried,</l>
+                  <l>At fifteen years of age begin to whine</l>
+                  <l>For husbands, and to wear away, and pine</l>
+                  <l>With fretting and lamenting, if that they</l>
+                  <l>Againſt their wills do any longer ſtay.</l>
+               </lg>
+               <lg>
+                  <l>And by the force of melancholy flegme,</l>
+                  <l>They in the night moſt fearfully do dreame,</l>
+                  <l>As if they troubled with the Night-mare were,</l>
+                  <l>And hideous ſights doe unto them appear:</l>
+                  <l>With great anxiety, the time they paſſe,</l>
+                  <l>To thinke how hard it is to catch an Aſſe.</l>
+               </lg>
+               <lg>
+                  <l>And when unto the age of twenty ſhe</l>
+                  <l>Hath once attain'd; they will no elder be,</l>
+                  <l>Not in a doſen years, or halfe a ſcore,</l>
+                  <l>But boldly will affirm, they are no more:</l>
+                  <l>Though it perſpicuous be to every eye</l>
+                  <l>How that their faces give their mouths the lye.</l>
+               </lg>
+               <lg>
+                  <l>Their fathers carefully doe caſt in minde,</l>
+                  <l>Where for theſe Girles, they may good husbands find,</l>
+                  <l>Becauſe they are a ſort of brittle ware,</l>
+                  <l>And unto ill miſchances ſubject are</l>
+                  <l>Delayes in ſuch like caſes danger breeds,</l>
+                  <l>It's good to ſtay no longer then muſt needs.</l>
+               </lg>
+               <lg>
+                  <l>Therefore they, this, and that young man eſpy,</l>
+                  <l>And on them keep a ſtrict obſervant eye,</l>
+                  <l>And if they finde that he is in a way</l>
+                  <l>To thrive, they will ſtrive hard to make a prey</l>
+                  <l>Of him, and doe unto the utmoſt bend</l>
+                  <l>Their wits, that ſo they may attaine their end.</l>
+               </lg>
+               <lg>
+                  <l>But yet (forſooth) their worſhips are aſham'd,</l>
+                  <l>That in their owne cauſe, they ſhould once be nam'd,</l>
+                  <l>And that the matter they may cloſely carry,</l>
+                  <pb n="10" facs="tcp:117339:8"/>
+                  <l>They do obtain ſome running Emiſſary,</l>
+                  <l>Whom for ſiniſter ends they do procure,</l>
+                  <l>To turn Fool-catcher, and theſe Gulls allure.</l>
+               </lg>
+               <lg>
+                  <l>Then this Gull-groper doth moſt craftily</l>
+                  <l>Intrude himſelf into the company</l>
+                  <l>Of this ſame Woodcock, and he doth pretend</l>
+                  <l>Himſelfe to be to him a cordiall friend;</l>
+                  <l>But all for gold that gliſters do not take,</l>
+                  <l>Under the greeneſt graſſe lyes hid the ſnake.</l>
+               </lg>
+               <lg>
+                  <l>And when he hath a fit occaſion caught</l>
+                  <l>As at an Ale-houſe ore a mornings draught,</l>
+                  <l>His minde he breaks, and ſaith, Sir, I admire</l>
+                  <l>That you to marry ſhould have no deſire;</l>
+                  <l>Since that the greateſt bleſſing of this life,</l>
+                  <l>Is to obtaine a good, and vertuous wife.</l>
+               </lg>
+               <lg>
+                  <l>And if your minde to marry do incline,</l>
+                  <l>There's ſuch a Gentleman, a friend of mine,</l>
+                  <l>Who hath a daughter, which in my judgement,</l>
+                  <l>Would make a wife for you to your content;</l>
+                  <l>She handſome is, and every way compleat,</l>
+                  <l>Beſides ſhe hath a portion very great.</l>
+               </lg>
+               <lg>
+                  <l>Then he affirmes with great aſſeverations,</l>
+                  <l>And many deep and ſerious proteſtations,</l>
+                  <l>That he his welfare meerly doth intend,</l>
+                  <l>And hath not any by-reſpects, or end;</l>
+                  <l>And alſo addes, how that he cannot tell,</l>
+                  <l>Whether or no, her friends will like it well.</l>
+               </lg>
+               <lg>
+                  <l>And ſaith, in them he hath ſome intereſt,</l>
+                  <l>And for him will not faile to doe his beſt:</l>
+                  <l>Unto that end he doth him thither take</l>
+                  <l>to ſee her once or twice, and then doth make</l>
+                  <l>The motion to her father, that they may</l>
+                  <l>Have his conſent, to come in ſuch a way.</l>
+               </lg>
+               <pb n="11" facs="tcp:117339:8"/>
+               <lg>
+                  <l>And he with much reluctancy doth grant</l>
+                  <l>Them their deſires, but ſeems moſt ignorant</l>
+                  <l>Of this before contriv'd pernicious plot,</l>
+                  <l>(Which was a babe that his owne braine begot:)</l>
+                  <l>I on this knavery doe inſiſt the more,</l>
+                  <l>Becauſe its grown an epidemick ſore.</l>
+               </lg>
+               <lg>
+                  <l>The hook that's covered with a ſilver bait,</l>
+                  <l>Doth all the ſenſes ſo intoxicate,</l>
+                  <l>That they all opportunities do watch,</l>
+                  <l>Whereby they may enabled be to catch</l>
+                  <l>That, which at length will prove a poyſoned Pill,</l>
+                  <l>Sweet in the mouth, though at the heart it kill.</l>
+               </lg>
+               <lg>
+                  <l>The glittering gold doth often blinde the eyes</l>
+                  <l>Of thoſe that are judicious otherwiſe:</l>
+                  <l>This is the only thing that all affect,</l>
+                  <l>Which to attain their courſes they direct,</l>
+                  <l>So that they may their golden god but win</l>
+                  <l>At any rate they weigh it not a pin.</l>
+               </lg>
+               <lg>
+                  <l>Like as the Magnet conſtantly doth bend</l>
+                  <l>Unto the Artick-Pole; ſo all their end</l>
+                  <l>Is to attain that which by no means can</l>
+                  <l>Not in this world make happy any man,</l>
+                  <l>As ſuddenly they by experience finde,</l>
+                  <l>All cannot purchaſe ſweet content of minde.</l>
+               </lg>
+               <lg>
+                  <l>This one word, Money, doth their hearts ſo variſh,</l>
+                  <l>That to obtain it, they of gifts are laviſh;</l>
+                  <l>Themſelves in Paradiſe they then do thinke;</l>
+                  <l>They'r ſo ore-joy'd they ſcarce can eat or drink;</l>
+                  <l>And are like Epicures ſecurely ſleeping,</l>
+                  <l>When judgement on them every hour is creeping.</l>
+               </lg>
+               <lg>
+                  <l>All things concurring thus to their deſire,</l>
+                  <l>It ſetteth their affections all on fire</l>
+                  <l>Untill they have the buſineſſe conſummate,</l>
+                  <pb n="12" facs="tcp:117339:9"/>
+                  <l>Which they are like for to repent too late;</l>
+                  <l>They every day conceit a month, a yeare,</l>
+                  <l>But do not thinke gold may be bought too dear.</l>
+               </lg>
+               <lg>
+                  <l>The match is made, all parties are agreed</l>
+                  <l>The Nuptials to celebrate with ſpeed,</l>
+                  <l>That ſo the Creature may be made a Bride,</l>
+                  <l>And then the Gordyan knot full faſt is ty'd,</l>
+                  <l>Which for the time that <hi>Cinthia</hi> runneth round,</l>
+                  <l>The Zodiac may with all joy abound.</l>
+               </lg>
+               <lg>
+                  <l>But by that time be fully overpaſt,</l>
+                  <l>Their raſhneſſe they doe then perceive at laſt;</l>
+                  <l>Their folly for to ſee they do begin,</l>
+                  <l>And what a labyrinth they'r plunged in:</l>
+                  <l>The vices which before the gold did cover,</l>
+                  <l>Do now themſelves at leaſure all diſcover.</l>
+               </lg>
+               <lg>
+                  <l>He now perceives how finely he is match'd,</l>
+                  <l>And that in truth his worſhips Cunny-catch'd;</l>
+                  <l>But now it is too late for to repent,</l>
+                  <l>And come what can, hee's like to be content;</l>
+                  <l>The Proverb ſaith, for what there is no cure,</l>
+                  <l>The onely remedy is to indure.</l>
+               </lg>
+               <lg>
+                  <l>Now all the qualities, which I before</l>
+                  <l>Have briefly here deſcrib'd, and many more</l>
+                  <l>Do all moſt perſpicuouſly appear,</l>
+                  <l>And they begin to rant, and domineere,</l>
+                  <l>Far more then the Athenian Tyrants, and</l>
+                  <l>What ere come on't, they'l have the upper hand.</l>
+               </lg>
+               <lg>
+                  <l>She doth ſuppoſe that he to her is ty'd</l>
+                  <l>For nothing but for to ſupport her pride,</l>
+                  <l>And to maintaine her in an idle life;</l>
+                  <l>Is he not (thinke you) fitted with a wife?</l>
+                  <l>If to be ſuch a one, ſhe may be ſaid,</l>
+                  <l>Seeing a wife was for an helper made.</l>
+               </lg>
+               <pb n="13" facs="tcp:117339:9"/>
+               <lg>
+                  <l>Yet they are helpers, but it is to ſpoile</l>
+                  <l>That which their husbands got by pains and toyle;</l>
+                  <l>It is their chiefe, yea onely earthly joy</l>
+                  <l>To help for to conſume, waſte, and deſtroy,</l>
+                  <l>By ſatisfying of their vanity,</l>
+                  <l>And in this ſenſe they help abundantly.</l>
+               </lg>
+               <lg>
+                  <l>For all for which theſe Gallants ever care,</l>
+                  <l>Is to go fine, and daintily to fare,</l>
+                  <l>Unto which end they diligently view</l>
+                  <l>Abroad, amongſt their neighbours, and what new</l>
+                  <l>Faſhions they ſee, they preſently do cry,</l>
+                  <l>O, ſuch a one hath ſo, why may not I?</l>
+               </lg>
+               <lg>
+                  <l>Litigious, and prone unto contention,</l>
+                  <l>Loving to make perpetuall diſſention;</l>
+                  <l>And they are worſe then mad, who will contend</l>
+                  <l>With them, for why? in vaine their breath they ſpend:</l>
+                  <l>So raſhly they'r addicted to their will,</l>
+                  <l>And will not from it, be it good, or ill.</l>
+               </lg>
+               <lg>
+                  <l>With that all-conquering word, Becauſe, they can</l>
+                  <l>Vanquiſh the reaſons of the wiſeſt man:</l>
+                  <l>This is the ſpeciall, onely argument,</l>
+                  <l>Which all the force of Logick cannot rent;</l>
+                  <l>By it moſt learnedly they all things prove,</l>
+                  <l>Yea heaven to be below, and hell above.</l>
+               </lg>
+               <lg>
+                  <l>And of all other torments, that there be,</l>
+                  <l>There's none that halfe ſo bad appear to me,</l>
+                  <l>As unto death, with non-ſence to be worded,</l>
+                  <l>By ſuch, who a good reaſon ne'r afforded,</l>
+                  <l>Which he is like to be perpetually,</l>
+                  <l>That doth himſelfe unto a <hi>Cockney</hi> tye.</l>
+               </lg>
+               <lg>
+                  <l>They are imperious, proud, perverſe, and cruel,</l>
+                  <l>And love unto all miſchiefe to adde fuel;</l>
+                  <l>Their mindes are ſo inconſtant, that they mock</l>
+                  <pb n="14" facs="tcp:117339:10"/>
+                  <l>The various turnings of the Weather-cock,</l>
+                  <l>And if ſo be you diligently minde them,</l>
+                  <l>An houre in one opinion, you'l ne'r finde them.</l>
+               </lg>
+               <lg>
+                  <l>They uſe the utmoſt of their art, and skill,</l>
+                  <l>To make their children like them in all ill;</l>
+                  <l>They'r ſo unnaturall, they never nurſe them,</l>
+                  <l>And for their breeding, they have cauſe to curſe them;</l>
+                  <l>They teach them onely pride, to ſing, and dance,</l>
+                  <l>And of all good to live in ignorance.</l>
+               </lg>
+               <lg>
+                  <l>And that I may my Reader recreate,</l>
+                  <l>A pleaſant ſtory I will here relate,</l>
+                  <l>Though I thereby my ſelfe may much endanger</l>
+                  <l>For to the truth thereof, I am no ſtranger:</l>
+                  <l>I all the parties know exceeding well,</l>
+                  <l>Stories by hear-ſay, I love not to tell.</l>
+               </lg>
+               <lg>
+                  <l>A creature in this City, of that tribe,</l>
+                  <l>Which in this Poem, I to you deſcribe,</l>
+                  <l>Had married beene about two years, or more,</l>
+                  <l>And did not fructifie, which vext her ſore,</l>
+                  <l>She pin'd and whin'd, and greatly did lament</l>
+                  <l>The caſe wherein ſhe was deficient.</l>
+               </lg>
+               <lg>
+                  <l>At length her maid, a bird of the ſame feather,</l>
+                  <l>(For like to like do beſt agree together:)</l>
+                  <l>Upon a day when ſhe her Miſtreſſe lac't,</l>
+                  <l>She ſaid forſooth you'r thicker in the waſte</l>
+                  <l>Within this fortnight by at leaſt two inch,</l>
+                  <l>Your gowne and bodies you extreamly pinch.</l>
+               </lg>
+               <lg>
+                  <l>She at this word (poor ſoul) was ſtruck amaz'd,</l>
+                  <l>But preſently her courage up ſhe rais'd:</l>
+                  <l>And ſaid, i'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ſo? how happy then am I!</l>
+                  <l>Thus was ſhe neatly gulled with a lie,</l>
+                  <l>And void of reaſon, ſtreight ſhe did conceit.</l>
+                  <l>Her ſelf with childe, for to be very great.</l>
+               </lg>
+               <pb n="15" facs="tcp:117339:10"/>
+               <lg>
+                  <l>Paſſion o're reaſon did ſo far prevaile,</l>
+                  <l>That to provide all things they did not faile,</l>
+                  <l>That neceſſary were, againſt that ſhe</l>
+                  <l>Of this great nothing ſhould delivered be;</l>
+                  <l>When this ſuppoſed time, drew near, it fell</l>
+                  <l>Moſt happily out, ſhe was not very well.</l>
+               </lg>
+               <lg>
+                  <l>O, what a ſtir was there, (it was but need)</l>
+                  <l>The mid-wife then was ſent for with all ſpeed,</l>
+                  <l>And all the good wives that did live thereby,</l>
+                  <l>Were call'd to ſee this Trage-comedy;</l>
+                  <l>And all this hurly-burly, and this trouble,</l>
+                  <l>At length amounted but unto a buble.</l>
+               </lg>
+               <lg>
+                  <l>If that by force he thinke to be her maſter,</l>
+                  <l>Shee'l ſcold, and frown, and miſchief make the faſter,</l>
+                  <l>And if by lenity he do intend</l>
+                  <l>To try if ſhe will her conditions mend,</l>
+                  <l>She for a coward then doth ſtreight-way take him,</l>
+                  <l>And ten to one ſhe doth a Cuckold make him.</l>
+               </lg>
+               <lg>
+                  <l>And now he doth by dear experience finde,</l>
+                  <l>Riches compar'd to a contented mind</l>
+                  <l>Are nothing; nay his wealth adds to his grief,</l>
+                  <l>When ſhe her portion caſteth in his teeth;</l>
+                  <l>For though he lov'd it well, it doth not pleaſe</l>
+                  <l>Him, for to hear on't in ſuch tearms as theſe.</l>
+               </lg>
+               <lg>
+                  <l>VVhy? what? I pray, ſaith ſhe, did I not bring</l>
+                  <l>So, and ſo much, that you at every thing</l>
+                  <l>Should thus think much, whereto I have a mind,</l>
+                  <l>That hardly cloaths you to my back will find?</l>
+                  <l>Your betters far, know that I might have had,</l>
+                  <l>And they thereof would have been very glad.</l>
+               </lg>
+               <lg>
+                  <l>If that of me a fool you think to make,</l>
+                  <l>I tell you that your ſelf you do miſtake.</l>
+                  <l>Then the poor man doth fret, and chaſe, and vexe</l>
+                  <pb n="16" facs="tcp:117339:11"/>
+                  <l>And various thoughts his minde doe ſore perplex:</l>
+                  <l>The day he curſeth that he e're was borne,</l>
+                  <l>And leades a life moſt wretched, and forlorne.</l>
+               </lg>
+            </div>
+            <div type="epilogue">
+               <head>Epilogue.</head>
+               <lg>
+                  <l>ANd you my Brethren, for whoſe only ſake</l>
+                  <l>The ſpirit mov'd me, for to under-take</l>
+                  <l>This Work, you every one can teſtifie,</l>
+                  <l>That what I here have written is no lye;</l>
+                  <l>And if that <hi>Zoilus</hi> carp, and <hi>Momus</hi> rage,</l>
+                  <l>Becauſe I laſh the crimes of this our Age;</l>
+               </lg>
+               <lg>
+                  <l>I weigh it not a ruſh, nor doe I care,</l>
+                  <l>Although they doe their worſt, let them not ſpare;</l>
+                  <l>I know that none but the gal'd Horſe will kick,</l>
+                  <l>If ſo, i'le deale them ſuch another trick:</l>
+                  <l>At what here's writ if any be offended,</l>
+                  <l>It is not like by me to be amended.</l>
+               </lg>
+               <lg>
+                  <l>And thou my Muſe, who yet was ne're out-witted</l>
+                  <l>By them, although too many have been fitted;</l>
+                  <l>Flouriſh thou ſtill, and live for to diſdaine</l>
+                  <l>The ſweet temptations of ſuch bitter gaine;</l>
+                  <l>Thoſe who their mindes to it doe wholly bend,</l>
+                  <l>May they of ſorrow never know an end.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
